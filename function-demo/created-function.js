@@ -17,4 +17,4 @@ const sum4 = (a, b) => a + b
 console.log(sum1(2, 3))
 console.log(sum2(2, 3))
 console.log(sum3(2, 3))
-console.log(sum4(2, 3))
+console.log(sum4(2, 3)) 
